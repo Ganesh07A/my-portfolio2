@@ -2,10 +2,11 @@ import LenisScroll from "@/components/LenisScroll";
 import Navbar from "@/components/Navbar";
 import Header from "@/components/Header";
 import About from "@/components/About";
-import Skills from "@/components/Skills";
+import Skills from "@/components/Achievements";
 import Work from "@/components/Work";
 import Contact from "@/components/Contact";
 import Footer from "@/components/Footer";
+import Achievements from "@/components/Achievements";
 
 export default function Page() {
     return (
@@ -14,7 +15,7 @@ export default function Page() {
             <Navbar />
             <Header />
             <About />
-            <Skills/>
+            <Achievements/>
             <Work />
             <Contact />
             <Footer />
