@@ -6,7 +6,7 @@ import Achievements from "@/components/Achievements";
 import Work from "@/components/Work";
 import Contact from "@/components/Contact";
 import Footer from "@/components/Footer";
-import Achievements from "@/components/Achievements";
+
 
 export default function Page() {
     return (
