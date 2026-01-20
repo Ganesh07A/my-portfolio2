@@ -44,7 +44,7 @@ export default function Work() {
   };
 
   return (
-    <div id="work" className="w-full px-[12%] py-10 scroll-mt-20">
+    <div id="my" className="w-full px-[12%] py-10 scroll-mt-20">
       {/* Heading */}
       <motion.h4
         variants={fadeUp}

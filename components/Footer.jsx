@@ -34,14 +34,14 @@ export default function Footer() {
           <a href="https://prebuiltui.com?utm_source=eliana">Ganesh Suvarnakar</a>. All
           rights reserved.
         </p>
-        <ul className="flex items-center gap-10 justify-center mt-4 sm:mt-0">
+        <ul className="flex items-center gap-10 justify-center mt-4 sm:mt-0 hover">
           <li>
-            <Link target="_blank" href="https://github.com/ganesh07a">
+            <Link className="text-black-800 hover:text-indigo-700" target="_blank" href="https://github.com/ganesh07a">
               GitHub
             </Link>
           </li>
           <li>
-            <Link target="_blank" href="https://www.linkedin.com/in/ganesh-suvarnakar-53033435a/">
+            <Link className="text-black-800 hover:text-indigo-700" target="_blank" href="https://www.linkedin.com/in/ganesh-suvarnakar-53033435a/">
               LinkedIn
             </Link>
           </li>

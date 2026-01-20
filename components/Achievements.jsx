@@ -35,7 +35,7 @@ export default function Achievements() {
   };
 
   return (
-    <div id="services" className="w-full px-[12%] py-10 scroll-mt-20">
+    <div id="achievements" className="w-full px-[12%] py-10 scroll-mt-20">
       {/* Heading */}
       <motion.h4
         variants={fadeUp}
