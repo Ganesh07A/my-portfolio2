@@ -21,14 +21,14 @@ export default function Work() {
       liveLink: "#",
     },
     {
-      name: "Smart Assessment",
+      name: "SmartAssess - Smart Assessment Platform with Analytics",
       description:
-        "Online examination platform with AI proctoring and automated grading systems.",
+        "Online examination platform with mcq + coding questions,  proctoring and automated grading systems.",
       bgImage: "/assets/work-3.png",
-      repoLink: "https://github.com/Ganesh07A/Smart-Assesment-Platform",
+      repoLink: "https://github.com/Ganesh07A/smartassess",
       liveLink: "#",
     },
-    {
+    { 
       name: "Portfolio Website",
       description:
         "Modern portfolio built with Next.js and Tailwind CSS to showcase my journey.",
