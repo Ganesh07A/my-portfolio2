@@ -21,19 +21,19 @@ export default function Work() {
       liveLink: "#",
     },
     {
+      name: "DevFlow – AI Code Review Assistant",
+      description:
+        "AI-powered pull request reviewer that detects bugs, security issues, and performance problems.",
+      bgImage: "/assets/ai_code_review.jpg",
+      repoLink: "https://github.com/Ganesh07A/Devflow",
+      liveLink: "#" 
+    },
+    {
       name: "SmartAssess - Smart Assessment Platform with Analytics",
       description:
         "Online examination platform with mcq + coding questions,  proctoring and automated grading systems.",
       bgImage: "/assets/work-3.png",
       repoLink: "https://github.com/Ganesh07A/smartassess",
-      liveLink: "#",
-    },
-    { 
-      name: "Portfolio Website",
-      description:
-        "Modern portfolio built with Next.js and Tailwind CSS to showcase my journey.",
-      bgImage: "/assets/project4.png",
-      repoLink: "https://github.com/ganesh07a/my-portfolio2",
       liveLink: "#",
     },
   ];
