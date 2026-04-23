@@ -16,13 +16,13 @@ export default function About() {
       name: "Languages",
       icon1: "/assets/code-icon.png",
       icon2: "/assets/code-icon-dark.png",
-      description: "Python, JavaScript, SQL, HTML, CSS",
+      description: "Python, JavaScript, typeScript",
     },
     {
       name: "Education",
       icon1: "/assets/edu-icon.png",
       icon2: "/assets/edu-icon-dark.png",
-      description: "B.Tech in Computer Science",
+      description: "B.Tech in Artificial Intelligence & machine Learning",
     },
     {
       name: "Projects",
