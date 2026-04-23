@@ -15,9 +15,9 @@ export default function Work() {
     {
       name: "Sahayak AI",
       description:
-        "Personal AI Chatbot built with Python & LangChain. Handles context-aware conversations.",
+        "CampusMate AI (internal persona: Sahayak) is an intelligent Retrieval-Augmented Generation (RAG) chatbot designed to simplify information access for educational institutions.",
       bgImage: "/assets/project2.jpg",
-      repoLink: "https://github.com/Ganesh07A/Sahayak-chatbot",
+      repoLink: "https://github.com/Ganesh07A/campusMate-AI",
       liveLink: "#",
     },
     {
