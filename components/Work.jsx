@@ -18,20 +18,20 @@ export default function Work() {
         "CampusMate AI (internal persona: Sahayak) is an intelligent Retrieval-Augmented Generation (RAG) chatbot designed to simplify information access for educational institutions.",
       bgImage: "/assets/project2.jpg",
       repoLink: "https://github.com/Ganesh07A/campusMate-AI",
-      liveLink: "#",
+      liveLink: "https://github.com/Ganesh07A/campusMate-AI",
     },
     {
       name: "DevFlow – AI Code Review Assistant",
       description:
-        "AI-powered pull request reviewer that detects bugs, security issues, and performance problems.",
+        "WORKING ON: AI-powered pull request reviewer that detects bugs, security issues, and performance problems.",
       bgImage: "/assets/ai_code_review.jpg",
       repoLink: "https://github.com/Ganesh07A/Devflow",
-      liveLink: "#" 
+      liveLink: "https://github.com/Ganesh07A/Devflow"
     },
     {
       name: "SmartAssess - Smart Assessment Platform with Analytics",
       description:
-        "Online examination platform with mcq + coding questions,  proctoring and automated grading systems.",
+        "WORKING ON: Online examination platform with mcq + coding questions,  proctoring and automated grading systems.",
       bgImage: "/assets/work-3.png",
       repoLink: "https://github.com/Ganesh07A/smartassess",
       liveLink: "#",
